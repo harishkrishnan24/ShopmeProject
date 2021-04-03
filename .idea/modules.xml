@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/shopmewebparent/shopmebackend.iml" filepath="$PROJECT_DIR$/shopmewebparent/shopmebackend.iml" />
       <module fileurl="file://$PROJECT_DIR$/shopmewebparent/shopmewebparent.iml" filepath="$PROJECT_DIR$/shopmewebparent/shopmewebparent.iml" />
     </modules>
   </component>

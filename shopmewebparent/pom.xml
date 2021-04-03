@@ -11,8 +11,9 @@
     <groupId>com.shopme</groupId>
     <artifactId>shopmewebparent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
     <name>shopmewebparent</name>
-    <description>Shopme Web parent</description>
+    <description>Shopme Web Parent</description>
     <properties>
         <java.version>11</java.version>
     </properties>
