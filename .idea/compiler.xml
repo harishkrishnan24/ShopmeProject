@@ -9,7 +9,6 @@
         <module name="shopmecommon" />
         <module name="shopmefrontend" />
         <module name="shopmebackend" />
-        <module name="ShopmeProject" />
       </profile>
     </annotationProcessing>
   </component>
