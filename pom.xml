@@ -10,6 +10,7 @@
 
     <modules>
         <module>shopmecommon</module>
+        <module>shopmewebparent</module>
     </modules>
 
     <properties>
